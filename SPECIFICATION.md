@@ -1444,7 +1444,7 @@ The `bindings` map can contain objects that provide context to the currently exe
 
 ### 4.2. JavaScript Use-API
 
->The JavaScript Use API has been deprecated for use with AEM as a Cloud Service. Please use [the Java Use API instead.](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/java-use-ap)
+>The JavaScript Use API has been deprecated for use with AEM as a Cloud Service. Please use [the Java Use API instead.](https://experienceleague.adobe.com/en/docs/experience-manager-htl/content/java-use-api)
 >
 >[Please see the AEM as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/deprecated-removed-features) for more information on deprecated and removed features.
 
